@@ -1,0 +1,7 @@
+@media screen and (max-width: 767px) {
+    .place__info {
+        width: 288px;
+        margin: 0 auto;
+    }
+  }
+
